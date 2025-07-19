@@ -83,27 +83,6 @@ Hover over visuals for tooltips with additional insights
 
 📬 Contact
 Made with 💡 by Sidhartha Jala
-📧 [Your Email]
+📧 sidharthajala@gmail.com
 📍 MBA Data Analytics Student | Aspiring Data Analyst
 
-Let me know if you'd like me to:
-
-Export this README as a README.md file for GitHub
-
-Tailor it based on actual visuals used
-
-Translate it to Telugu or Hindi for local use
-
-Add a short project summary for a resume/LinkedIn post
-
-Want that?
-
-
-
-
-
-
-
-
-
-Ask ChatGPT
